@@ -10,6 +10,10 @@
 
 ```pip install virtualenvwrapper --user```
 
-**install pyenv**
+[**install pyenv**](https://opensource.com/article/19/6/virtual-environments-python-macos)
 
 ```brew install pyenv```
+
+**install zlib and SQLite**
+
+```brew install zlib sqlite```
