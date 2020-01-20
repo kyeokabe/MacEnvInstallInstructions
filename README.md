@@ -9,3 +9,7 @@
 ```pip install virtualenv --user```
 
 ```pip install virtualenvwrapper --user```
+
+**install pyenv**
+
+```brew install pyenv```
