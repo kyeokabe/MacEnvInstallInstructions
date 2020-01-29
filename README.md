@@ -1,20 +1,20 @@
-**install brew**
+**install brew** (desktopMac, MBP12)
 
-**install python**
+**install python** (desktopMac)
 
-**install pip**
+**install pip** (desktopMac)
 
-**install virtual environment & virtual environment wrapper**
+**install virtual environment & virtual environment wrapper** (desktopMac ... pipenv better...?)
 
 ```pip install virtualenv --user```
 
 ```pip install virtualenvwrapper --user```
 
-[**install pyenv**](https://opensource.com/article/19/6/virtual-environments-python-macos)
+[**install pyenv**](https://opensource.com/article/19/6/virtual-environments-python-macos) (desktopMac)
 
 ```brew install pyenv```
 
-[**install zlib and SQLite**](https://opensource.com/article/19/6/virtual-environments-python-macos)
+[**install zlib and SQLite**](https://opensource.com/article/19/6/virtual-environments-python-macos) (desktopMac)
 
 ```brew install zlib sqlite```
 
