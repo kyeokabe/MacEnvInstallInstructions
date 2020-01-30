@@ -1,8 +1,12 @@
 **install brew** (desktopMac, MBP12)
 
-**install python** (desktopMac)
+**install python** (desktopMac, MBP12)
 
 **install pip** (desktopMac)
+
+**install pipenv** (MBP12)
+
+```pip3 install pipenv```
 
 **install virtual environment & virtual environment wrapper** (desktopMac ... pipenv better...?)
 
