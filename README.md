@@ -4,11 +4,11 @@
 
 **install pip** (desktopMac)
 
-**install pipenv** (MBP12)
+**install pipenv** (desktopMac, MBP12)
 
 ```pip3 install pipenv```
 
-**install virtual environment & virtual environment wrapper** (desktopMac ... pipenv better...?)
+**install virtual environment & virtual environment wrapper** (desktopMac ... pipenv better...? -> don't need)
 
 ```pip install virtualenv --user```
 
