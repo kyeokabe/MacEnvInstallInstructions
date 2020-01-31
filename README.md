@@ -25,6 +25,6 @@
 ```export LDFLAGS="-L/usr/local/opt/zlib/lib -L/usr/local/opt/sqlite/lib"```
 ```export CPPFLAGS="-I/usr/local/opt/zlib/include -I/usr/local/opt/sqlite/include"```
 
-[**install tree**] (MBP12)
+**install tree** (MBP12)
 
 ```brew install tree```
