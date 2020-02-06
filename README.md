@@ -28,3 +28,9 @@
 **install tree** (MBP12)
 
 ```brew install tree```
+
+**within virtual env**
+
+```sudo apt-get update```
+```sudo apt-get install nginx```
+```pip3 install gunicorn```
